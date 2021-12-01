@@ -1,0 +1,23 @@
+{
+  "name": "spotify-clone-tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReinaldoJunior96/Spotify-clone-tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReinaldoJunior96/Spotify-clone-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/ReinaldoJunior96/Spotify-clone-tailwindcss#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
